@@ -1,19 +1,12 @@
-# Mathematics in Lean
+Lean for the Curious Mathematician 2023
+=======================================
+Düsseldorf, 4-8 Sep. 2023
 
-This tutorial depends on Lean 4, VS Code, and Mathlib.
-You can find the textbook both online and in this repository
-in
-[html format](https://leanprover-community.github.io/mathematics_in_lean/)
-or as a
-[pdf document](https://leanprover-community.github.io/mathematics_in_lean/mathematics_in_lean.pdf).
-The book is designed to be read as you
-work through examples and exercises,
-using a copy of this repository on your computer.
-Alternatively, you can use Gitpod to run Lean and VS Code in the cloud.
+This repository contains the exercises for the LftCM2023 workshop. It is based on
+[Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/).
+(see also its [Github Repo](https://github.com/leanprover-community/mathematics_in_lean))
 
-This version of *Mathematics in Lean* is designed for [Lean 4](https://leanprover.github.io/) and
-[Mathlib](https://github.com/leanprover-community/mathlib4).
-For the Lean 3 version, see [github.com/leanprover-community/mathematics_in_lean3](github.com/leanprover-community/mathematics_in_lean3).
+The workshops website: [LftCM2023 webiste](https://lftcm2023.github.io/)
 
 
 ## To use this repository on your computer
@@ -26,7 +19,7 @@ Do the following:
 2. Make sure you have [git](https://git-scm.com/) installed.
 
 3. Follow these [instructions](https://leanprover-community.github.io/install/project.html#working-on-an-existing-project)
-   to fetch the `mathematics_in_lean` repository and open it up in VS Code.
+   to fetch the `lftcm2023` repository and open it up in VS Code.
 
 4. Each section in the textbook has an associated Lean file with examples and exercises.
    You can find them in the folder `LftCM`, organized by chapter.
@@ -46,35 +39,8 @@ At that point, you can open the textbook in a side panel in VS Code as follows:
 
 3. In the window that opens, click on `Open documentation of current project`.
 
-The textbook and this repository are still a work in progress.
+This repository is still a work in progress.
 You can update the repository by typing `git pull`
-followed by `lake exe cache get` inside the `mathematics_in_lean` folder.
+followed by `lake exe cache get` inside the `lftcm2023` folder.
 (This assumes that you have not changed the contents of the `LftCM` folder,
 which is why we suggested making a copy.)
-
-
-## To use this repository with Gitpod
-
-If you have a Gitpod account or are willing to sign up for one,
-just point your browser to [https://gitpod.io/#/https://github.com/leanprover-community/mathematics_in_lean](https://gitpod.io/#/https://github.com/leanprover-community/mathematics_in_lean).
-This creates a virtual machine in the cloud,
-and installs Lean and Mathlib.
-It then presents you with a VS Code window, running in a virtual
-copy of the repository.
-We still suggest making a copy of the `LftCM` directory, as described
-in step 5 in the last section.
-You can update the repository by opening a terminal in the browser
-and typing `git pull` followed by `lake exe cache get` as above.
-
-Gitpod gives you 50 free hours every month.
-When you are done working, choose `Stop workspace` from the menu on the left.
-The workspace should also stop automatically
-30 minutes after the last interaction or 3 minutes after closing the tab.
-
-To restart a previous workspace, go to [https://gitpod.io/workspaces/](https://gitpod.io/workspaces/).
-If you change the filter from Active to All, you will see all your recent workspaces. You can pin a workspace to keep it on the list of active ones.
-
-## Contributing
-
-PRs and issues should be opened at the upstream
-[source repository](https://github.com/avigad/mathematics_in_lean_source).
