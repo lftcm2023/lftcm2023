@@ -1,6 +1,7 @@
 import LftCM.Common
 import Mathlib.GroupTheory.QuotientGroup
 
+set_option autoImplicit true
 
 
 @[ext]

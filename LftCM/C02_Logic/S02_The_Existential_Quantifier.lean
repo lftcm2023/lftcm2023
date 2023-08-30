@@ -1,6 +1,8 @@
 import LftCM.Common
 import Mathlib.Data.Real.Basic
 
+set_option autoImplicit true
+
 namespace C03S02
 
 example : ∃ x : ℝ, 2 < x ∧ x < 3 := by

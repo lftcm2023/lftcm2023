@@ -14,6 +14,7 @@ import LftCM.C02_Logic.S06_Sequences_and_Convergence
 import LftCM.C03_Sets_and_Functions.S01_Sets
 import LftCM.C03_Sets_and_Functions.S02_Functions
 import LftCM.C03_Sets_and_Functions.S03_The_Schroeder_Bernstein_Theorem
+import LftCM.C04_Algebra_Tactics.Algebra_Tactics
 import LftCM.C05_Structures_And_Classes.S01_Structures
 import LftCM.C05_Structures_And_Classes.S02_Algebraic_Structures
 import LftCM.C05_Structures_And_Classes.S03_Building_the_Gaussian_Integers
@@ -28,7 +29,10 @@ import LftCM.C09A_Analysis.S02_Differential_Calculus_in_Normed_Spaces
 import LftCM.C09A_Analysis.S03_Integration
 import LftCM.C09A_Analysis.S04_Measure_Theory
 import LftCM.C09A_Analysis.S05_Elementary_Integration
+import LftCM.C09B_Combinatorics.Combinatorics
 import LftCM.C10_Category_Theory.CategoryTheory
+import LftCM.C11_Algebraic_Geometry.Algebraic_Geometry
+import LftCM.C12A_Differential_Geometry.Differential_Geometry
 import LftCM.C12B_Number_Theory.S01_Irrational_Roots
 import LftCM.C12B_Number_Theory.S02_Induction_and_Recursion
 import LftCM.C12B_Number_Theory.S03_Infinitely_Many_Primes
