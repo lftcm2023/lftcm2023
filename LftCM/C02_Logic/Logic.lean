@@ -11,14 +11,15 @@ set_option autoImplicit true
 
 Overview of the most important connectives:
 
-→   \to     if ... then ...         implication
-∀   \all    for all                 universal quantification
-∃   \ex     there exists            existential quantification
-¬   \not    not                     negation
-∧   \and    and                     conjunction
-∨   \or     or                      disjunction
-False       contradiction!          falsity
-True        this is trivial         truth
+→   \to     if ... then ...           implication
+∀   \all    for all                   universal quantification
+∃   \ex     there exists              existential quantification
+¬   \not    not                       negation
+∧   \and    and                       conjunction
+∨   \or     or                        disjunction
+↔   \iff    ... if and only iff ...   biimplication
+False       contradiction!            falsity
+True        this is trivial           truth
 
 ... and how to use them:
 
@@ -119,7 +120,6 @@ end
 ## Negation
 
 `¬ A` is an abbreviation for `A → False`.
-
 -/
 
 section
@@ -216,13 +216,6 @@ variable (r s : ℕ → Prop)  -- Predicates over the natural numbers
 example : p ∧ q → q ∧ p := by
 
 example : p ∨ q → q ∨ p := by
--- SOLUITONS:
-  intro hpq
-  rcases hpq with (hp|hq)
-  · right
-    assumption
-  · left
-    assumption
 
 example : (∃ x, r x ∧ s x) → (∃ x, r x) ∧ (∃ x, s x) := by
 

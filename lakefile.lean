@@ -18,10 +18,6 @@ lean_lib LftCM where
   moreLeanArgs := moreLeanArgs
 
 @[default_target]
-lean_lib CIL where
-  moreLeanArgs := moreLeanArgs
-
-@[default_target]
 lean_lib Projects where
   moreLeanArgs := moreLeanArgs
 
