@@ -6,7 +6,7 @@ This repository contains the exercises for the LftCM2023 workshop. It is based o
 [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/).
 (see also its [Github Repo](https://github.com/leanprover-community/mathematics_in_lean))
 
-The workshops website: [LftCM2023 webiste](https://lftcm2023.github.io/)
+The workshops website: [LftCM2023 website](https://lftcm2023.github.io/)
 
 
 ## To use this repository on your computer
