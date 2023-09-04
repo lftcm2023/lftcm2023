@@ -124,6 +124,7 @@ theorem Easy_Euclid_Thm (n : ℕ) : ∃ p, n ≤ p ∧ Nat.Prime p := by exact?
 
 example (a b : ℕ) : a + a * b = (b + 1) * a := by
   rw?
+  sorry
 
 -- # Some more difficult proofs
 def myFactorial : ℕ → ℕ

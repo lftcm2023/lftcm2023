@@ -1,9 +1,10 @@
+import LftCM.C01_Basics.Basics
 import LftCM.C01_Basics.S01_Calculating
--- import LftCM.C01_Basics.S02_Overview
--- import LftCM.C01_Basics.S03_Proving_Identities_in_Algebraic_Structures
--- import LftCM.C01_Basics.S04_More_on_Order_and_Divisibility
--- import LftCM.C01_Basics.S05_Proving_Facts_about_Algebraic_Structures
--- import LftCM.C01_Basics.S06_Using_Theorems_and_Lemmas
+import LftCM.C01_Basics.S02_Overview
+import LftCM.C01_Basics.S03_Proving_Identities_in_Algebraic_Structures
+import LftCM.C01_Basics.S04_More_on_Order_and_Divisibility
+import LftCM.C01_Basics.S05_Proving_Facts_about_Algebraic_Structures
+import LftCM.C01_Basics.S06_Using_Theorems_and_Lemmas
 -- import LftCM.C02_Logic.Logic
 -- import LftCM.C02_Logic.S01_Implication_and_the_Universal_Quantifier
 -- import LftCM.C02_Logic.S02_The_Existential_Quantifier

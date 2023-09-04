@@ -21,4 +21,4 @@ lean_lib LftCM where
 lean_lib Projects where
   moreLeanArgs := moreLeanArgs
 
-require mathlib from git "https://github.com/leanprover-community/mathlib4"@"master"
+require mathlib from git "https://github.com/leanprover-community/mathlib4"@"3f9dee6"
