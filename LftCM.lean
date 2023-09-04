@@ -5,13 +5,13 @@ import LftCM.C01_Basics.S03_Proving_Identities_in_Algebraic_Structures
 import LftCM.C01_Basics.S04_More_on_Order_and_Divisibility
 import LftCM.C01_Basics.S05_Proving_Facts_about_Algebraic_Structures
 import LftCM.C01_Basics.S06_Using_Theorems_and_Lemmas
--- import LftCM.C02_Logic.Logic
--- import LftCM.C02_Logic.S01_Implication_and_the_Universal_Quantifier
--- import LftCM.C02_Logic.S02_The_Existential_Quantifier
--- import LftCM.C02_Logic.S03_Negation
--- import LftCM.C02_Logic.S04_Conjunction_and_Iff
--- import LftCM.C02_Logic.S05_Disjunction
--- import LftCM.C02_Logic.S06_Sequences_and_Convergence
+import LftCM.C02_Logic.Logic
+import LftCM.C02_Logic.S01_Implication_and_the_Universal_Quantifier
+import LftCM.C02_Logic.S02_The_Existential_Quantifier
+import LftCM.C02_Logic.S03_Negation
+import LftCM.C02_Logic.S04_Conjunction_and_Iff
+import LftCM.C02_Logic.S05_Disjunction
+import LftCM.C02_Logic.S06_Sequences_and_Convergence
 -- import LftCM.C03_Sets_and_Functions.S01_Sets
 -- import LftCM.C03_Sets_and_Functions.S02_Functions
 -- import LftCM.C03_Sets_and_Functions.S03_The_Schroeder_Bernstein_Theorem
