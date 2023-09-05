@@ -12,9 +12,13 @@ import LftCM.C02_Logic.S03_Negation
 import LftCM.C02_Logic.S04_Conjunction_and_Iff
 import LftCM.C02_Logic.S05_Disjunction
 import LftCM.C02_Logic.S06_Sequences_and_Convergence
--- import LftCM.C03_Sets_and_Functions.S01_Sets
--- import LftCM.C03_Sets_and_Functions.S02_Functions
--- import LftCM.C03_Sets_and_Functions.S03_The_Schroeder_Bernstein_Theorem
+import LftCM.C03_Sets_and_Functions.LftCM_functions
+import LftCM.C03_Sets_and_Functions.LftCM_functions_solutions
+import LftCM.C03_Sets_and_Functions.LftCM_sets
+import LftCM.C03_Sets_and_Functions.LftCM_sets_solutions
+import LftCM.C03_Sets_and_Functions.S01_Sets
+import LftCM.C03_Sets_and_Functions.S02_Functions
+import LftCM.C03_Sets_and_Functions.S03_The_Schroeder_Bernstein_Theorem
 -- import LftCM.C04_Algebra_Tactics.S01BasicsOfPolyrith
 -- import LftCM.C04_Algebra_Tactics.S02UsingPolyrith
 -- import LftCM.C04_Algebra_Tactics.S03NonsingularityOfCurves
