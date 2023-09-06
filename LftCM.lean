@@ -39,7 +39,7 @@ import LftCM.C09A_Analysis.S03_Integration
 import LftCM.C09A_Analysis.S04_Measure_Theory
 import LftCM.C09A_Analysis.S05_Elementary_Integration
 -- import LftCM.C09B_Combinatorics.Combinatorics
--- import LftCM.C10_Category_Theory.CategoryTheory
+import LftCM.C10_Category_Theory.CategoryTheory
 -- import LftCM.C11_Algebraic_Geometry.Algebraic_Geometry
 -- import LftCM.C12A_Differential_Geometry.Differential_Geometry
 -- import LftCM.C12B_Number_Theory.S01_Irrational_Roots
