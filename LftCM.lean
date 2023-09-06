@@ -33,11 +33,11 @@ import LftCM.C07_Algebraic_Hierarchy.S03_Subobjects
 import LftCM.C08_Topology.S01_Filters
 import LftCM.C08_Topology.S02_Metric_Spaces
 import LftCM.C08_Topology.S03_Topological_Spaces
--- import LftCM.C09A_Analysis.S01_Elementary_Differential_Calculus
--- import LftCM.C09A_Analysis.S02_Differential_Calculus_in_Normed_Spaces
--- import LftCM.C09A_Analysis.S03_Integration
--- import LftCM.C09A_Analysis.S04_Measure_Theory
--- import LftCM.C09A_Analysis.S05_Elementary_Integration
+import LftCM.C09A_Analysis.S01_Elementary_Differential_Calculus
+import LftCM.C09A_Analysis.S02_Differential_Calculus_in_Normed_Spaces
+import LftCM.C09A_Analysis.S03_Integration
+import LftCM.C09A_Analysis.S04_Measure_Theory
+import LftCM.C09A_Analysis.S05_Elementary_Integration
 -- import LftCM.C09B_Combinatorics.Combinatorics
 -- import LftCM.C10_Category_Theory.CategoryTheory
 -- import LftCM.C11_Algebraic_Geometry.Algebraic_Geometry
