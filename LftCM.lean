@@ -40,7 +40,12 @@ import LftCM.C09A_Analysis.S04_Measure_Theory
 import LftCM.C09A_Analysis.S05_Elementary_Integration
 -- import LftCM.C09B_Combinatorics.Combinatorics
 import LftCM.C10_Category_Theory.CategoryTheory
--- import LftCM.C11_Algebraic_Geometry.Algebraic_Geometry
+import LftCM.C11_Algebraic_Geometry.API_advice
+import LftCM.C11_Algebraic_Geometry.Algebraic_Geometry
+import LftCM.C11_Algebraic_Geometry.S11A_Algebraic_Geometry_exercises_noSols
+import LftCM.C11_Algebraic_Geometry.S11A_Algebraic_Geometry_exercises_withSols
+import LftCM.C11_Algebraic_Geometry.S11_Algebraic_Geometry
+import LftCM.C11_Algebraic_Geometry.help
 -- import LftCM.C12A_Differential_Geometry.Differential_Geometry
 -- import LftCM.C12B_Number_Theory.S01_Irrational_Roots
 -- import LftCM.C12B_Number_Theory.S02_Induction_and_Recursion
