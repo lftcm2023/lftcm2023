@@ -627,7 +627,7 @@ instance {R} [MyAddGroup R] : MyAddGroup (Point' R) where
     · apply MyAddGroup.add_assoc
     · apply MyAddGroup.add_assoc
     · apply MyAddGroup.add_assoc
-  add_assoc p q r:= _
+  add_assoc p q r := _
   add_zero p := _
   zero_add p := _
   add_left_neg p := _
@@ -673,7 +673,7 @@ example {α : Type} :
   npow_succ := sorry       -- optional
   inv := sorry
   div := sorry             -- optional
-  div_eq_mul_inv := sorry  -- optional
+  div_eq_mul_inv := sorry
   zpow := sorry            -- optional
   zpow_zero' := sorry      -- optional
   zpow_succ' := sorry      -- optional
